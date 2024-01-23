@@ -58,7 +58,7 @@ Below is an overview of the tools and technologies I usually use for my personal
 ### WakaTime Stats (Coding Activity per language):
 
 <div>
-        <img width="600px" src="https://wakatime.com/badge/user/018d3347-442e-45ad-bd01-0e05d596d7d4/project/018d334c-3942-47fd-9b00-f0bc8d3225c2.svg" alt="Irrefl WakaTime Activity"/>
+       <a href="https://wakatime.com/badge/github/irrefl/ApiPrueba"><img src="https://wakatime.com/badge/github/irrefl/ApiPrueba.svg" alt="wakatime"></a>
 </div>
 
 <br />
